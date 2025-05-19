@@ -6,7 +6,6 @@ e.g maxRecurringChar('aabacada') // will return 'a'
 
 
 function maxRecurringChar(text) {
-    // Code goes here
     // let charMap ={}
     // let maxCharValue = 0
     // let maxChar =''
